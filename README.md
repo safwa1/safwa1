@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @safwa1
+- 👋 Hi, I’m @safwan and I am a software engineer.
 - 👀 I’m interested in technology, software development, and high performed applications.
 - 🌱 I’m currently learning Rust and improving my skills in C++, C#, and Kotlin to make high-quality apps.
 - 💞️ I’m looking to collaborate on projects involving Qt development, C# integration, and web automation.
