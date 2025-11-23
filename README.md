@@ -32,7 +32,7 @@ I'm deeply interested in technology, software craftsmanship, and building high-p
 
 ### 📫 Get in Touch
 
-- 📧 Email: [safwa1.dev@gmail.com](mailto:safwa1.dev@gmail.com)  
+- 📧 Email: [support@safwan.pro](mailto:support@safwan.pro)  
 - 💬 WhatsApp: [Message me](https://wa.me/967715058661)
 
 ---
