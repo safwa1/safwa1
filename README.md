@@ -18,7 +18,7 @@
 |--------|-------------|------|------|
 | **SharpResults** | Functional Result/Option types for .NET with zero-alloc focus | C# / .NET | [NuGet](https://www.nuget.org/packages/SharpResults) • [GitHub](https://github.com/safwa1/SharpResults) |
 | **RoomSharp** | Source-generated ORM with SQL dialect awareness | C# / .NET | GitHub *(Coming Soon)* |
-| **KResult** | Kotlin Multiplatform Result library with coroutine integration | Kotlin / KMP | [GitHub](https://github.com/SafwanAbdulghani/KResult) |
+| **KResult** | Kotlin Multiplatform Result library with coroutine integration | Kotlin / KMP | [GitHub](https://github.com/safwa1/KResult) |
 | **CRoutines** | Coroutine-style async job manager for .NET | C# / .NET | [NuGet](https://www.nuget.org/packages/CRoutines) • [GitHub](https://github.com/safwa1/CRoutines) |
 
 ---
