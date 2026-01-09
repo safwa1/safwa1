@@ -44,17 +44,6 @@
 
 ---
 
-## ✅ Proof & Highlights (quick verification)
-
-- 📦 **NuGet packages:** RoomSharp / CRoutines / SharpResults (links above)
-- 🧪 **Benchmarks:** *(add link here when ready — e.g., RoomSharp vs Dapper allocations/throughput)*
-- 🧠 **Design notes:** *(add link here — source generator pipeline, diagnostics, caching strategy)*
-- 🗺️ **Roadmap:** *(add link here — milestones/issues)*
-
-> Tip: Even if these are placeholders now, keeping this section makes the profile read as “confident + verifiable”.
-
----
-
 ## 🧱 Technical Arsenal
 
 ### Primary stack & systems
