@@ -44,10 +44,21 @@
 
 ---
 
+## ✅ Proof & Highlights (quick verification)
+
+- 📦 **NuGet packages:** RoomSharp / CRoutines / SharpResults (links above)
+- 🧪 **Benchmarks:** *(add link here when ready — e.g., RoomSharp vs Dapper allocations/throughput)*
+- 🧠 **Design notes:** *(add link here — source generator pipeline, diagnostics, caching strategy)*
+- 🗺️ **Roadmap:** *(add link here — milestones/issues)*
+
+> Tip: Even if these are placeholders now, keeping this section makes the profile read as “confident + verifiable”.
+
+---
+
 ## 🧱 Technical Arsenal
 
 ### Primary stack & systems
-- **Languages:** C# (Expert), Kotlin, Rust, C++
+- **Languages:** C# (Primary), Kotlin, Rust, C++
 - **Frameworks:** .NET (modern), WinUI 3, Kotlin Multiplatform (KMP), MAUI
 - **Engineering:** Source Generators, Roslyn APIs, async runtimes, memory/perf optimization
 
@@ -68,14 +79,6 @@
 </details>
 
 ---
-
-## 📊 Impact & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safwa1&amp;show_icons=true&amp;hide_title=true&amp;include_all_commits=true&amp;bg_color=0d1117&amp;text_color=ffffff&amp;icon_color=58a6ff&amp;border_color=30363d" height="150" alt="Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwa1&amp;layout=compact&amp;bg_color=0d1117&amp;text_color=ffffff&amp;hide_border=false&amp;border_color=30363d" height="150" alt="Langs" />
-</p>
 
 <hr />
 
