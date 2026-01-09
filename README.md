@@ -82,7 +82,7 @@
   <a href="https://safwan.pro">Website</a> •
   <a href="https://github.com/safwa1">GitHub</a> •
   <a href="https://www.linkedin.com/in/i-safwan">LinkedIn</a> •
-  <a href="https://www.nuget.org/profiles/Safwan">NuGet</a> •
+  <a href="https://www.nuget.org/profiles/SafwanAbdulghani">NuGet</a> •
   <a href="https://wa.me/967715058661">WhatsApp</a>
 </p>
 
