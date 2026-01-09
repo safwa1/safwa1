@@ -57,23 +57,29 @@
 
 <details>
   <summary><b>🛠️ More tools (The Toolbox)</b></summary>
-  <br>
-  <ul>
-    <li><b>Languages:</b> Swift, Go, TypeScript, Zig, Dart, PHP</li>
-    <li><b>Frontend:</b> React, Vue.js, SolidJS, Blazor</li>
-    <li><b>Desktop/Hybrid:</b> WPF, WinForms, Flutter, Electron, Tauri</li>
-    <li><b>Data:</b> SQL Server, PostgreSQL, SQLite, EF Core, Dapper</li>
-    <li><b>DevOps:</b> Docker, GitHub Actions, CI/CD pipelines</li>
-  </ul>
+  
+  - **Languages:** Swift, Go, TypeScript, Zig, Dart, PHP
+  - **Frontend:** React, Vue.js, SolidJS, Blazor
+  - **Desktop/Hybrid:** WPF, WinForms, Flutter, Electron, Tauri
+  - **Data:** SQL Server, PostgreSQL, SQLite, EF Core, Dapper
+  - **DevOps:** Docker, GitHub Actions, CI/CD pipelines
+  
 </details>
 
 ---
 
-<hr />
+## 📊 Impact & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safwa1&show_icons=true&hide_title=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&border_color=30363d" height="150" alt="Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwa1&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=false&border_color=30363d" height="150" alt="Langs" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://safwan.pro">Website</a> •
-  <a href="mailto:support@safwan.pro">Email</a> •
   <a href="https://github.com/safwa1">GitHub</a> •
   <a href="https://www.linkedin.com/in/i-safwan">LinkedIn</a> •
   <a href="https://www.nuget.org/profiles/Safwan">NuGet</a> •
