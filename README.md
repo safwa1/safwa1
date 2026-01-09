@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Safwan Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hey, I'm Safwan</h1>
 <h3 align="center">Cross-Platform Software Engineer</h3>
 
